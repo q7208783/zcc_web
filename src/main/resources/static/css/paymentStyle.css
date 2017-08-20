@@ -1,0 +1,14 @@
+body{
+    background-color: #cccccc;
+    font-family: Arial,sans-serif;
+}
+.paymentsHeadLine{
+    font-size: 12pt;
+    font-weight: bold;
+}
+.paymentsDescription{
+    font-size: 10pt;
+}
+label{
+    font-weight: bold;
+}
